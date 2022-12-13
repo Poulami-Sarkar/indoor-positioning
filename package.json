@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "noble": "^1.9.1",
     "node-beacon-scanner": "^0.2.2",
     "nodemailer": "^6.4.10",
